@@ -107,8 +107,7 @@ Some regions generated strong revenue but delivered comparatively lower profits,
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
-
+![Dashboard Preview](dashboard/dashboard.png)
 ---
 
 ## Business Recommendations
